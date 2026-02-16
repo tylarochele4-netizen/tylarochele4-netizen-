@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Welcome! I'm [Tyla Rochele]</h2>
+        <h2>About Me</h2>
+        <p>I'm a student currently learning [computer programming].
+           I'm interested in [data science and web development].</p>
+        <h2>What I'm Learning</h2>
+            <li>Git and GitHub</li>
+            <li>[HTML]</li>
+            <li><a href="https://github.com/tylarochele4-netizen">My GitHub Profile</a></li>
+</body>
+</html>
