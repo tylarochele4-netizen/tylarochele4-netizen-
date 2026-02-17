@@ -15,8 +15,8 @@
 2.Stage the changes using git add
 3 Commit the changes using git commit 
 
-*Tool*        *purpose*                 *Link*
-Git         Version control      https://git-scm.com
+*Tool*        *purpose*                *Link*
+Git         Version control       https://gitscm.com
 Vs code     Code editor          https://code.visualstudio.com
 
 **Items related to my learning goals**
