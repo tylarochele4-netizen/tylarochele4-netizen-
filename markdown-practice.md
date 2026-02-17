@@ -1,44 +1,60 @@
-## My Learning Goals 
-### This Semester 
+# My Learning Goals
 
-**I'm working toward becoming a confident programmer**, *stay motivated*,and continue using tools like `git commit`
+## This Semester
+
+I'm working toward becoming a confident programmer, *stay motivated*, and continue using tools like `git commit`.
 
 [My GitHub Profile](https://github.com/tylarochele4-netizen)
 
-**Things I want to learn**
-- Web Development 
-- Data science 
-- Python Programming 
+---
 
-*Steps to make a commit in Git*
-1.Make changes to your files 
-2.Stage the changes using git add
-3 Commit the changes using git commit 
+## Things I Want to Learn
 
-*Tool*        *purpose*                *Link*
-Git         Version control       https://gitscm.com
-Vs code     Code editor          https://code.visualstudio.com
+- Web Development
+- Data Science
+- Python Programming
 
-**Items related to my learning goals**
-- [×] Install Git
-- [×] Create a GitHub account 
-- [ ] Learn basic HTML 
-- [ ] Practice JavaScript daily 
+---
 
-```python
-print("Hello, world!")
-```
-print("Hello, world!")
+## Steps to Make a Commit in Git
 
-"Practicing everyday leeds to big results"
+1. Make changes to your files  
+2. Stage the changes using `git add`  
+3. Commit the changes using `git commit`  
 
-Hi!
+---
 
-My name is **Tyla**, and I'm currently focusing on *improving my coding skills*
+## Tools
+
+| Tool    | Purpose        | Link           |
+|---------|----------------|----------------|
+| Git     | Version control| [Git Website](https://git-scm.com)
+| VS Code | Code editor    | [VS Code Website](https://code.visualstudio.com) |
+
+---
+
+## Items Related to My Learning Goals
+
+- [x] Install Git  
+- [x] Create a GitHub account  
+- [ ] Learn basic HTML  
+- [ ] Practice JavaScript daily  
+
+---
+
+## Python Example
+print("hello, world!")
+
+**practicing everyday leeds to big results**
+
+**Hi**
+My name is **Tyla** and I'm currently focusing on*improving my coding skills*.
 
 **My Tools**
-.I'm using Git for version control 
+
+#I'm using `git` for version control 
 
 **My Current Goals**
+
 1. Master the basics of HTML
 2. Build small projects 
