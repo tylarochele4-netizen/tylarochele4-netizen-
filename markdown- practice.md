@@ -3,12 +3,12 @@
 
 **I'm working toward becoming a confident programmer**, *stay motivated*,and continue using tools like `git commit`
 
-[My GitHub Profile] (https://github.com/tylarochele4-netizen)
+[My GitHub Profile](https://github.com/tylarochele4-netizen)
 
 **Things I want to learn**
--Web Development 
--Data science 
--Python Programming 
+- Web Development 
+- Data science 
+- Python Programming 
 
 *Steps to make a commit in Git*
 1.Make changes to your files 
@@ -20,10 +20,10 @@ Git         Version control      https://git-scm.com
 Vs code     Code editor          https://code.visualstudio.com
 
 **Items related to my learning goals**
--[×] Install Git
--[×] Create a GitHub account 
--[ ] Learn basic HTML 
--[ ] Practice JavaScript daily 
+- [×] Install Git
+- [×] Create a GitHub account 
+- [ ] Learn basic HTML 
+- [ ] Practice JavaScript daily 
 
 ```python
 print("Hello, world!")
